@@ -13,6 +13,12 @@
  * Improved space: 43.9MB (72.29%)
  */
 
+ /**
+  *  Note: originally solved wrong problem -- height balanced does NOT mean
+  * that the height is minimized overall, but rather that the height of the
+  * left and right subtrees (of any node) differ by at most 1.
+  */
+
 class Solution {
     public boolean isBalanced(TreeNode root) {
         return depthBalanced(root) != -1;

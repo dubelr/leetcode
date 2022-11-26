@@ -1,4 +1,3 @@
-
 /**
  * Number: 125
  * Title: Valid Palindrome
