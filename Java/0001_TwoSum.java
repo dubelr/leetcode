@@ -3,12 +3,11 @@
 * Title: Two Sum
 * Link: https://leetcode.com/problems/two-sum/
 * Tags: Array, Hash Table
-* Level: Easy
+* Difficulty: Easy
 * Content: Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 * You may assume that each input would have exactly one solution, and you may not use the same element twice.
 * 
-* Runtime range: 1-4ms
-* Runtime percentile range: 90-100%
+* Runtime: 1-4ms (90-100%)
 */
 
 import java.util.HashMap;
