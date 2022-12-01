@@ -6,7 +6,9 @@
 * Difficulty: 
 * Content: 
 * 
-* Runtime: 
-* Space:
+* Runtime original: 
+* Space original:
+*
+* Runtime improved:
+* Space improved:
 */
-
